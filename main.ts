@@ -6,7 +6,7 @@ basic.forever(function () {
         basic.pause(2000)
         pins.digitalWritePin(DigitalPin.P1, 0)
         basic.showIcon(IconNames.Skull)
-        basic.pause(2001)
+        basic.pause(2000)
     }
     basic.pause(2000)
 })
